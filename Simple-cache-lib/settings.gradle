@@ -1,0 +1,3 @@
+include ':simplecachelib'
+include ':app'
+rootProject.name = "SimpleCache"
